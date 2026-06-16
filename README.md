@@ -56,3 +56,4 @@ Improved visibility into outlet performance across different locations and sizes
 Reduced manual reporting effort by consolidating sales metrics into a single dashboard.
 
 6. Screenshots
+https://github.com/poluru-manusha/Blinkit-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20221913.png
